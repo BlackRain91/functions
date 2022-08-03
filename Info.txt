@@ -1,0 +1,12 @@
+Surname:Семенов
+Name:Антон
+Age:26
+Profession:Слесарь
+Surname:Нульман
+Name:Павел
+Age:40
+Profession:Фармацевт
+Surname:Крижнев
+Name:Семён
+Age:19
+Profession:Студент
